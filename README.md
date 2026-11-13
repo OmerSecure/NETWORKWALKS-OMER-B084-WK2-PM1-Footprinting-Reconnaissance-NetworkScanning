@@ -166,7 +166,7 @@ ipconfig
 - Profile: `Ping scan`
 - Command: `nmap -sn 192.168.20.0/24`
 
-**Observed example result:**
+**Observed results:**
 - 4 live hosts found
 - Scan completed in 5.06 seconds
 
